@@ -1,0 +1,56 @@
+[
+  {
+    "product_id": "P201",
+    "product_name": "Galaxy S23 Ultra",
+    "category": "Electronics",
+    "price": 95000.00,
+    "brand": "Samsung",
+    "technical_specs": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "display": "6.8-inch Dynamic AMOLED",
+      "battery": "5000mAh"
+    },
+    "warranty": {
+      "duration_months": 24,
+      "type": "Manufacturer Limited Warranty",
+      "service_center": "Authorized Samsung Care"
+    },
+    "tags": ["5G", "Flagship", "Android"]
+  },
+  {
+    "product_id": "P202",
+    "product_name": "Organic Whole Milk",
+    "category": "Groceries",
+    "price": 75.00,
+    "brand": "Amul",
+    "details": {
+      "expiry_date": "2024-12-20T00:00:00Z",
+      "volume": "1 Litre",
+      "packaging": "Recyclable Tetra Pack"
+    },
+    "nutritional_info": {
+      "calories": 60,
+      "total_fat": "3.5g",
+      "protein": "3.2g",
+      "calcium": "120mg",
+      "allergen_info": ["Dairy"]
+    },
+    "quantity_available": 150
+  },
+  {
+    "product_id": "P203",
+    "product_name": "Dri-FIT Running Tee",
+    "category": "Clothing",
+    "price": 1800.00,
+    "brand": "Nike",
+    "attributes": {
+      "sizes_available": ["S", "M", "L", "XL", "XXL"],
+      "colors": ["Midnight Black", "Neon Green", "Royal Blue"],
+      "material": "100% Recycled Polyester",
+      "care_instructions": "Machine wash cold, do not bleach"
+    },
+    "origin": "Made in Vietnam"
+  }
+]
